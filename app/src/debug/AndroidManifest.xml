@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jp.ac.asojuku.jousena.yolp_map">
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+    <application>
+
+    </application>
+
+</manifest>
